@@ -1,0 +1,1 @@
+::VKZLIB_CONFIG.PROJECT_DIR = "src/"
