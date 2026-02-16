@@ -2,18 +2,22 @@
 
 A Squirrel project template for structured scripting
 
+## Requirements
+
+- Python 3 (Optional, for using build script)
+
 ## File Structure
 
-- vkzlib.config.nut: configuration file of vkzlib, also serve as project config
-- lib/: Libraries
-    - vkzlib/: My library, provides essentials for the project
-        - build.bat / build.sh: Build vkzlib
-        - build.py: Python script used to build
-        - setup.build.json: Build configuration for module setup scripts
-        - vkzlib.build.json: Build configuration for vkzlib
-        - module/: Scripts related to module system
-        - setup/: Module setup scripts
-- src/: Project source codes
+- `vkzlib.config.nut`: configuration file of vkzlib, also serve as project config
+- `lib/`: Libraries
+    - `vkzlib/`: My library, provides essentials for the project
+        - `build.bat` / `build.sh`: Build vkzlib
+        - `build.py`: Python script used to build
+        - `setup.build.json`: Build configuration for module setup scripts
+        - `vkzlib.build.json`: Build configuration for vkzlib
+        - `module/`: Scripts related to module system
+        - `setup/`: Module setup scripts
+- `src/`: Project source codes
 
 ## File Naming Convention
 
