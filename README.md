@@ -1,4 +1,4 @@
-## Universal Squirrel Project Template
+## Squirrel Project Template
 
 A Squirrel project template for structured scripting.
 
