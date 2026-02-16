@@ -1,6 +1,6 @@
 ## Universal Squirrel Project Template
 
-A Squirrel project template for structured scripting
+A Squirrel project template for structured scripting.
 
 ## Requirements
 
@@ -171,15 +171,15 @@ In order to make `require` relative to your project directory, create a file nam
 ::VKZLIB_CONFIG.PROJECT_DIR = "src/"
 ```
 
-For other properties, see [vkzlib Configuration](#vkzlib-configuration)
+For other properties, see [vkzlib Configuration](#vkzlib-configuration).
 
 ### Run with Squirrel Interpreter
 
-Get a copy of Squirrel interpreter `sq`, make sure it is on `PATH`
+Get a copy of Squirrel interpreter `sq`, make sure it is on `PATH`.
 
-Open a shell and `cd` to this (root) directory
+Open a shell and `cd` to this (root) directory.
 
-You can run files with suffix `.entry.nut`
+You can run files with suffix `.entry.nut`.
 
 To run `src/main.entry.nut`:
 
