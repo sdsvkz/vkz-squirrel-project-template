@@ -110,7 +110,7 @@ Configuration is a json file with following properties:
 
 ## Guide
 
-### Use Module System
+### Using Module System
 
 I've written a simple module system similar to `Lua`'s. You can utilize it to organize your code.
 
